@@ -5,7 +5,7 @@ A curated list of my favourite awesome, unique, independent places and things in
 ## ☕️ Cafés & Coffee Shops
 
 * [Mad Penguin](https://www.facebook.com/madpenguingelato/) - An artisan gelateria and some of the best coffee in the city.
-* [The Coffee Apothecary](http://www.thecoffeeapothecary.co.uk/) - A lovely wee café in Udny, probably *the* best coffee outside of the city.
+* [The Coffee Apothecary](http://www.thecoffeeapothecary.co.uk/) - A lovely wee café in Udny, probably *the* best coffee in the Shire.
 
 ## ⛰ Exploring
 
