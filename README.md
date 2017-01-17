@@ -1,6 +1,6 @@
 # Awesome Aberdeen
 
-A curated list of my favourite awesome, unique, independent places and things in Aberdeen City and Shire.
+A curated list of awesome, unique, independent places and things I've either discovered or heard great things about in Aberdeen City and Shire. 
 
 ## ☕️ Cafés & Coffee Shops
 
