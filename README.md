@@ -3,7 +3,7 @@
 A curated list of awesome, unique, independent places and things I've either discovered or heard great things about in Aberdeen City and Shire. 
 
 ## Contents
-* [Cafés & Coffee Shops](##️-cafés--coffee-shops)
+* [Cafés & Coffee Shops](#-cafés--coffee-shops)
 * [Exploring](#-exploring)
 * [Creative & Arts](#-creative--arts)
 * [Animals & Pets](#-animals--pets)
