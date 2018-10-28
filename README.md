@@ -22,7 +22,7 @@ A curated list of awesome, unique, independent places and things I've either dis
 ### 🎨 Creative & Arts
 
 * [Peacock Visual Arts](http://www.peacockvisualarts.com/) - *The* place for contemporary art in Aberdeen, its been around for decades now and always worth a nosey.
-* [MAKE](http://www.make-aberdeen.com/) - A “digital fabrication” studio on Belmont Street, they can do 3D scanning and printing which is always cool.
+* ~~[MAKE](http://www.make-aberdeen.com/) - A “digital fabrication” studio on Belmont Street, they can do 3D scanning and printing which is always cool.~~
 
 ### 🐶 Animals & Pets
 
